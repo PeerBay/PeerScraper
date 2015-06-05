@@ -21,3 +21,7 @@ cd ../../
 cd PeerProxy
 crossbar start
 ```
+Visit
+```
+http://localhost:8080/scraper/
+```
